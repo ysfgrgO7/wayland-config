@@ -1,0 +1,2 @@
+# wayland-config
+HyprLand configs
